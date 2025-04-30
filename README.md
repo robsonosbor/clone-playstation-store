@@ -22,7 +22,7 @@ Este projeto é um clone simples da PlayStation Store desenvolvido com **Angular
 
 ## 🖼️ Preview
 
-<img src="https://github.com/robsonosbor/clone-playstation-store/blob/main/src/assets/screenshot.jpg?raw=true" alt="Screenshot do projeto" style="max-width: 100%; border-radius: 12px;">
+<img src="https://github.com/robsonosbor/clone-playstation-store/blob/main/src/assets/screenshot.jpg" alt="Screenshot do projeto" style="max-width: 100%; border-radius: 12px;">
 
 ## 📦 Como rodar o projeto
 
